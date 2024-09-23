@@ -1,0 +1,27 @@
+{
+  "name": "wakhti",
+  "description": "this package time and date central",
+  "version": "1.0.1",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://wakhti.macruuftech.com",
+  "repository": {
+    "url": "https://github.com/abdirahmanmahamoud/wakhti"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "wakhti",
+    "date",
+    "time",
+    "format"
+  ],
+  "author": "abdirahman mohamoud",
+  "license": "ISC",
+  "dependencies": {
+    "tsup": "^8.3.0",
+    "typescript": "^5.6.2"
+  }
+}
