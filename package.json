@@ -1,11 +1,10 @@
 {
   "name": "wakhti",
   "description": "this package time and date central",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "https://wakhti.macruuftech.com",
   "repository": {
     "url": "https://github.com/abdirahmanmahamoud/wakhti"
   },
